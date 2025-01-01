@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=TB-qNwBGiRU
+
+https://www.youtube.com/watch?v=oPwHpUq4yRA&t=1s
+upcast driver to take screeshot interface
+TakeScreenshot ts=(TakeScreenshot)driver
+File source=ts.getScreenshotAs(OutputType.FILE);
+File destination= new File(""+Math.random()+".png"
+try{
+FileHandler.copy(source, destination); }
+catch (IOException e) {
+e.printStackTrace();
+}
+
+https://www.youtube.com/watch?v=Ybv5KRoxxPM
+
+https://www.youtube.com/watch?v=4Dq7MvnLt0o
+local variable
+global variable
